@@ -6,5 +6,7 @@ public class Main {
         System.out.println("pedo");
 
         System.out.println("damn brou");
+
+        System.out.println("puto");
     }
 }
